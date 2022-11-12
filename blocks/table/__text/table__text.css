@@ -4,4 +4,6 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
+  position: relative;
+  z-index: 1;
 }
